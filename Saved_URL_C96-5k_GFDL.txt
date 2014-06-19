@@ -1,0 +1,12 @@
+http://cfa0.rdsi.tpac.org.au/thredds/dodsC/products/Daily/C96-5k_GFDL-CM3_rcp85/cfa-C96-5k_GFDL-CM3_rcp85.196001.nc
+http://cfa0.rdsi.tpac.org.au/thredds/dodsC/products/Daily/C96-5k_GFDL-CM3_rcp85/cfa-C96-5k_GFDL-CM3_rcp85.196002.nc
+http://cfa0.rdsi.tpac.org.au/thredds/dodsC/products/Daily/C96-5k_GFDL-CM3_rcp85/cfa-C96-5k_GFDL-CM3_rcp85.196003.nc
+http://cfa0.rdsi.tpac.org.au/thredds/dodsC/products/Daily/C96-5k_GFDL-CM3_rcp85/cfa-C96-5k_GFDL-CM3_rcp85.196004.nc
+http://cfa0.rdsi.tpac.org.au/thredds/dodsC/products/Daily/C96-5k_GFDL-CM3_rcp85/cfa-C96-5k_GFDL-CM3_rcp85.196005.nc
+http://cfa0.rdsi.tpac.org.au/thredds/dodsC/products/Daily/C96-5k_GFDL-CM3_rcp85/cfa-C96-5k_GFDL-CM3_rcp85.196006.nc
+http://cfa0.rdsi.tpac.org.au/thredds/dodsC/products/Daily/C96-5k_GFDL-CM3_rcp85/cfa-C96-5k_GFDL-CM3_rcp85.196007.nc
+http://cfa0.rdsi.tpac.org.au/thredds/dodsC/products/Daily/C96-5k_GFDL-CM3_rcp85/cfa-C96-5k_GFDL-CM3_rcp85.196008.nc
+http://cfa0.rdsi.tpac.org.au/thredds/dodsC/products/Daily/C96-5k_GFDL-CM3_rcp85/cfa-C96-5k_GFDL-CM3_rcp85.196009.nc
+http://cfa0.rdsi.tpac.org.au/thredds/dodsC/products/Daily/C96-5k_GFDL-CM3_rcp85/cfa-C96-5k_GFDL-CM3_rcp85.196010.nc
+http://cfa0.rdsi.tpac.org.au/thredds/dodsC/products/Daily/C96-5k_GFDL-CM3_rcp85/cfa-C96-5k_GFDL-CM3_rcp85.196011.nc
+http://cfa0.rdsi.tpac.org.au/thredds/dodsC/products/Daily/C96-5k_GFDL-CM3_rcp85/cfa-C96-5k_GFDL-CM3_rcp85.196012.nc
