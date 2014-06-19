@@ -1,3 +1,56 @@
+THREDDS Reproducible Research Report 
+========================================================
+
+ivan.hanigan@anu.edu.au
+
+```{r echo=FALSE, eval=F, results='hide'}
+require(knitr)
+require(markdown)
+knit2html('main.Rmd', options = c('toc', markdown::markdownHTMLOptions(TRUE)), stylesheet = 'custom.css')
+```
+
+### Introduction
+
+- This is an example of a Reproducible Research Report in R.
+- The report is the output of a knitr document and creates HTML output.
+- you can access the source code at [https://github.com/gis-forum/thredds-tpac](https://github.com/gis-forum/thredds-tpac)
+- see the 'main.Rmd' file
+- required the following install function on ubuntu 
+
+#### Code
+    install.packages("ncdf", type = "source", configure.args="--with-netcdf-include=/usr/include")
+
+
+## THREDDS 
+- THREDDS is a web service for exposing gridded data
+- This example uses the R package 'ncdf' to subset some data from the grids
+- The code came from our colleagues from TPAC who use it to access and analyse data in THREDDS 
+- Lu sent this to Ivan on 2014-06-19
+
+
+#### Code
+    https://github.com/gis-forum/thredds-tpac
+   
+### Outputs from running TPAC's code
+
+```{r echo=F, eval=T, results='hide'}
+# Project: thredds
+# Author: ivanhanigan
+
+# func
+setwd("~/tools/thredds")
+if(!require(ncdf)) install.packages("ncdf", type = "source", configure.args="--with-netcdf-include=/usr/include"); require(ncdf)
+
+# do
+## minor mod to the provided script to line 20 (setwd)
+source('read_dataset_daily_GFDL_time_series.R')
+
+```
+
+
+### TPAC's source code
+
+```{r echo=TRUE, eval=F, results='hide'}
 library(ncdf)
 library(stringr)
 
@@ -203,3 +256,5 @@ plot(
         type="l",
         col="forestgreen"
         )
+
+```
