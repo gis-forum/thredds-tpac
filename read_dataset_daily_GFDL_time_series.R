@@ -1,3 +1,6 @@
+#required the following install function on ubuntu
+install.packages("ncdf", type = "source", configure.args="--with-netcdf-include=/usr/include")
+library(rgdal)
 library(ncdf)
 library(stringr)
 #### Code developed by Tom Remenyi (from UTAS) June 2014
