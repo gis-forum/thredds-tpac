@@ -1,6 +1,6 @@
 library(ncdf)
 library(stringr)
-
+#### Code developed by Tom Remenyi (from UTAS) June 2014
 ##build list of urls. Simple example - change climate models, decades, months here
 
 list.of.urls <- c()
