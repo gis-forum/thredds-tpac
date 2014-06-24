@@ -5,6 +5,7 @@ This is the code our colleagues from TasPAC use to access and analyse data in TH
 
 ### Provenance
 
+- Tom Remenyi (from UTAS) was the person who wrote the R code
 - Lu sent this to Ivan on 2014-06-19
 
     This is the code my colleagues from Tas use to access and analyse data in THREDDS - TPAC – the Tasmanian version of the NCI-....
