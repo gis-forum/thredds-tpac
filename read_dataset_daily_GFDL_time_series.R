@@ -1,3 +1,4 @@
+# Tom Remenyi (from UTAS) was the person who wrote the R code
 #required the following install function on ubuntu
 install.packages("ncdf", type = "source", configure.args="--with-netcdf-include=/usr/include")
 library(rgdal)
